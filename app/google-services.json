@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12121496274",
+    "firebase_url": "https://olivino-dont.firebaseio.com",
+    "project_id": "olivino-dont",
+    "storage_bucket": "olivino-dont.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12121496274:android:68461194aa07ee4bc8eb0b",
+        "android_client_info": {
+          "package_name": "com.axelfernandez.olivinodont"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12121496274-he6flapr1u4shq61a299sv8hngk04fhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bKRxztz-Nz8CEqrgg6jgGeNZUAbmgIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12121496274-he6flapr1u4shq61a299sv8hngk04fhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
